@@ -8,6 +8,9 @@ def test_addition():
 def test_multiplication():
     assert multiply(10, 5) == 50
 
+def test_subraction():
+    assert subraction(10,5)==5
+
 def test_division():
     assert divide(10, 2) == 5
 
